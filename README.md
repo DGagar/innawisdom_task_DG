@@ -13,7 +13,7 @@ Raspberry Pi IoT setup.
 
 ![alt text](/images/iot_arch.jpg)
 
-<img src="/images/iot_setup.jpg" width="600" height="600" />
+<img src="/images/iot_setup.jpg" width="500" height="500" />
 
 Workflow is outlined in the following steps:
 1. Data is captured from temperature and humidity sensors.

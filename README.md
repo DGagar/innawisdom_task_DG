@@ -9,12 +9,12 @@
 # Solution
 Overview of the solution is shown in the architecture schematic below.
 
-![alt text](/images/iot_arch.jpg)
+<img src="/images/iot_arch.jpg" width="500" height="500" />
 
 Keeping in theme with the previous exercise, input is generated from a 
 Raspberry Pi IoT setup.
 
-<img src="/images/iot_setup.jpg" width="300" height="300" />
+<img src="/images/iot_setup.jpg" width="500" height="500" />
 
 Workflow is outlined in the following steps:
 1. Data is captured from temperature and humidity sensors.
